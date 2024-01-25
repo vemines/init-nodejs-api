@@ -20,8 +20,10 @@
     "helmet": "^5.1.0",
     "mongoose": "^6.3.3",
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.20",
     "redis": "^3.1.2",
     "winston": "^3.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
   }
 }
