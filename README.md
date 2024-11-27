@@ -1,7 +1,5 @@
-# Init project for nodejs
+# Init nodejs rest api 
 
 npm install -g nodemon
-npm i express morgan helmet compression mongoose dotenv crypto lodash --save
-
-For window need run at powershell at admin
-Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+npm i express morgan helmet compression dotenv  
+npm i mongoose crypto lodash
