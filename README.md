@@ -1,5 +1,5 @@
 # Init nodejs rest api 
 
-npm install -g nodemon
-npm i express morgan helmet compression dotenv  
-npm i mongoose crypto lodash
+1. npm install -g nodemon
+2. npm i express morgan helmet compression dotenv  
+3. npm i mongoose crypto lodash
